@@ -1,0 +1,114 @@
+.todosBgContainer {
+  background-color: #f9fbfe;
+  height: 100vh;
+  padding: 3%;
+}
+
+.todosHeading {
+  text-align: center;
+  font-family: "Roboto";
+  font-size: 46px;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.createTaskHeading {
+  font-family: "Roboto";
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.createTaskHeadingSubpart {
+  font-family: "Roboto";
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.todoItemsHeading {
+  font-family: "Roboto";
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.todoItemsHeadingSubpart {
+  font-family: "Roboto";
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.todoItemsContainer {
+  margin: 0px;
+  padding: 0px;
+  width: 40%;
+}
+
+.todoItemContainer {
+  margin-top: 15px;
+}
+
+.todoUserInput {
+  background-color: white;
+  width: 100%;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e4e7eb;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 15px;
+  width: 40%;
+}
+
+.button {
+  color: white;
+  background-color: #4c63b6;
+  font-family: "Roboto";
+  font-size: 18px;
+  border-width: 0px;
+  border-radius: 4px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 20px;
+  padding-left: 20px;
+  width: 10%;
+}
+
+.labelContainer {
+  background-color: #e6f6ff;
+  padding: 1%;
+  width: 100%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #096f92;
+  border-right: none;
+  border-top: none;
+  border-bottom: none;
+  border-radius: 4px;
+  align-items: center;
+}
+
+.todoText {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 400;
+  padding-left: 2%;
+}
+
+.deleteIconContainer {
+  text-align: right;
+  width: 18%;
+}
+
+.deleteIcon {
+  padding: 15px;
+}
+
+.checkboxInput {
+  width: 20px;
+  height: 20px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  margin-right: 12px;
+}
